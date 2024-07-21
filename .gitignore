@@ -1,3 +1,4 @@
 training/data/
 hda_Dokumente/4.SkalierenNormalisierenNumerisch/yelp_academic_dataset_business.json
 hda_Dokumente/4.SkalierenNormalisierenNumerisch/OnlineNewsPopularity/
+hda_Dokumente/6.TransformierenKategorischenVariablen/bin_counting.parquet
